@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+body{
+	overflow-x: hidden;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.background-color{
+	background-color: #2d78c3;
+}
+
+.padding{
+	padding: 100px 50px;
+}
+
+.fs{
+	font-size: 18px;
+}
+
+.box-color-one {
+    background-color: #BCAAA4;
+}
+
+.box-color-two {
+    background-color: #A1887F;
+}
+
+.box-color-three {
+    background-color: #5D4037;
+}
+
+.box-color-four {
+    background-color: #4E342E;
+}
+
+.box-color-five {
+	background-color: #3E2723;
+}
+
+
